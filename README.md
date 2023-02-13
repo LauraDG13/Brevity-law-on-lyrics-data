@@ -6,8 +6,7 @@ Zipf's Law of Abbreviation, theorized by the linguist George Kingsley Zipf, stat
 This project verifies the application of Zipf's Law of Abbreviation in English and Spanish lyrics data.  
 
 You can find the English lyrics dataset following this link: 
-https://www.kaggle.com/datasets/edenbd/150k-lyrics-labeled-with-spotify-valence
-. It's a huge file, it cannot be uploaded on GitHub. 
+https://www.kaggle.com/datasets/edenbd/150k-lyrics-labeled-with-spotify-valence. It's a huge file, it cannot be uploaded on GitHub. 
 
 The Spanish lyrics dataset is available on this repository (spanish_dataset.csv) and following this link:
 https://www.kaggle.com/datasets/smunoz3801/9325-letras-de-rap-en-espaol
