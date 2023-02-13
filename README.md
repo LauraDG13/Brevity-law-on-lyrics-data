@@ -7,7 +7,7 @@ This project verifies the application of Zipf's Law of Abbreviation in English a
 
 You can find the English lyrics dataset following this link: 
 https://www.kaggle.com/datasets/edenbd/150k-lyrics-labeled-with-spotify-valence
-(It's a huge file, it cannot be uploaded on GitHub). 
+. It's a huge file, it cannot be uploaded on GitHub. 
 
 The Spanish lyrics dataset is available on this repository (Spanish_lyrics.csv) and following this link:
 https://www.kaggle.com/datasets/smunoz3801/9325-letras-de-rap-en-espaol
