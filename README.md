@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/smunoz3801/9325-letras-de-rap-en-espaol
 To run the code, you have to install the libraries pandas, spaCy, matplotlib.pyplot, seaborn, numpy. 
 
 
-Related works 
+Related work
 
 https://www.kaggle.com/code/rikdifos/rap-lyrics-text-mining
 
